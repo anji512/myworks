@@ -1,6 +1,10 @@
 *{
     background-color: #333;
+<<<<<<< HEAD
     color:rgb(48, 117, 186);
+=======
+    color:rgb(219, 224, 220);
+>>>>>>> 0b19e8193178edb39cde86e22c4379193350acd5
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -10,8 +14,13 @@
    font-size:1rem; 
    font-weight:700;
    font-family: Arial, Helvetica, sans-serif;
+<<<<<<< HEAD
    filter: drop-shadow(2px 2px 10px rgb(5, 18, 64));
 color:rgb(99, 121, 132);
+=======
+   filter: drop-shadow(2px 2px 10px rgb(76, 18, 131));
+color:rgb(14, 92, 132);
+>>>>>>> 0b19e8193178edb39cde86e22c4379193350acd5
 } 
 .banner{
     background-image: url(//occ-0-3215-3662.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWcOJREo-h7_Dhe4stjffDUhbO4mzslQd5rtQvcTY-1LX9IgPqZGx5ghK99vgMumhvGS68J-9gs5SDubEYqnij4eQA3VOQf1wGi4.jpg?r=ea7&quot);
